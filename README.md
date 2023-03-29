@@ -12,5 +12,5 @@ Page web conçu avec HTML, CSS et JavaScript ou le clique sur le bouton "Connexi
 Si l'utilisateur a pas de compte, un formulaire d'inscription apparaît suite au clique du lien "Inscrivez-vous ici" et vice versa.
 
 Là, on renseigne son nom d'utilisateur, son email et son mot de passe pour se connecter.
-# Screenshoots
+# Screenshoot
 ![Site-avec-Connexion-Inscription-Metzoo](https://user-images.githubusercontent.com/129201720/228562005-ccea7a00-f74f-4f00-a3fe-60d049e162bf.png)
